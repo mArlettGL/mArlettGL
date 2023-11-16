@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @mArlettGL
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ¡Bienvenido a mi perfil de GitHub! Soy ArlettGL, una apasionada desarrolladora Junior con experiencia en una variedad de proyectos.
+- 🌱 A lo largo de mi trayectoria, he trabajado en iniciativas que abarcan desde aplicaciones web innovadoras hasta soluciones prácticas de código abierto. Mi enfoque se centra en el desarrollo Web Backend y Frontend.
 
-<!---
-mArlettGL/mArlettGL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ✨ ¡Explora mis contribuciones y no dudes en ponerte en contacto para cualquier pregunta o colaboración! ✨
